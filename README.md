@@ -23,7 +23,7 @@ To set your page title, use `tee` in your page's header.  This will write it out
 
 `tee` is easy to remember because:
 
-* it's a phonetic alias for `t` (for title), and
+* it's a phonetic alias for 't' (for title), and
 * it acts like Unix's `tee`.
 
 Or you can just use `title` again:
@@ -43,7 +43,7 @@ Use `:site`:
 </head>
 ```
 
-This will output, for example:
+This will produce, for example:
 
 ```html
 <head>
@@ -54,7 +54,9 @@ This will output, for example:
 
 ## Reverse the title's order
 
-Use `:big_endian`:
+By default, the site's title goes from small to large.  E.g. `My page - My site`.
+
+Use `:big_endian` to reverse this.
 
 ```html+erb
 <head>
