@@ -23,7 +23,7 @@ To set your page title, use `tee` in your page's header.  This will write it out
 
 `tee` is easy to remember because:
 
-* it's a phonetic alias for 't' (for title), and
+* it's a homonym for 't' (for title), and
 * it acts like Unix's `tee`.
 
 Or you can just use `title` again:
