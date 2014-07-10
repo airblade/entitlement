@@ -4,6 +4,8 @@ Entitlement lets you set your page titles in a simple, DRY way.
 
 Often you want a page's title to match its heading.  Although this is simple to arrange, adding Entitlement to your Gemfile instead is a one-liner.  And I'm sure you don't want to write tests for your page titles.
 
+Entitlement works with Rails 3 and Rails 4.
+
 
 ## Getting started
 
